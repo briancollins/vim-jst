@@ -70,4 +70,6 @@ if main_syntax == 'jst'
   unlet main_syntax
 endif
 
+set commentstring=<!--%s-->
+
 " vim: nowrap sw=2 sts=2 ts=8:
